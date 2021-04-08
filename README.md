@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bolin-Wu
+- 👋 Hi, I’m Bolin Wu, a master student of Statistic at Uppsala Monitorin Centre.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Machine Learning and R package development.
 - 📫 You can reach me by sending email to bolin.wu1026@gmail.com
