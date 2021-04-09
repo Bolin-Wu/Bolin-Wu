@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Bolin Wu, a master student of Statistic at Uppsala University.
-- 👀 I’m interested in Machine Learning and R package development.
+- 👀 I’m interested in Machine Learning, statistical model and data wrangling.
 - 🌱 I’m currently writing my master thesis in collaboration with Uppsala Monitorin Centre.
-- 📫 You can reach me by sending email to bolin.wu1026@gmail.com
+- 📫 You can reach me by sending email to bolin.wu1026@gmail.com.
+- 💻 You can find my data science projects at https://bolinwu.org.
 
 <!---
 Bolin-Wu/Bolin-Wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
