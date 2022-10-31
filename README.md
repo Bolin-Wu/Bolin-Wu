@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bolin, a biostatistician at Karolinska Institutet.
+- 👋 Hi, I’m Bolin, a statistician at Karolinska Institutet.
 - 👀 I’m interested in causal inference,statistical model, machine learning, and data wrangling.
 - 💻 My favorite programming languages are R, Python and SQL. Currently, I am mainly using R for work.
 - 🌱 I finished my master thesis in collaboration with Uppsala Monitorin Centre, which focusing on the application of Machine Learning in drug indication.
