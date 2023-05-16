@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bolin, a statistician at [NEAR](https://www.near-aging.se/), Karolinska Institutet.
-- 👀 I’m interested in causal inference,statistical model, machine learning, and data wrangling.
+- 👀 I’m interested in causal inference, survival analysis, machine learning, data wrangling, R package development, etc.
 - 💻 My favorite programming languages are R, Python and SQL. Currently, I am mainly using R for work.
 - 🌱 I finished my master thesis in collaboration with Uppsala Monitorin Centre, which focusing on the application of Machine Learning in drug indication.
 - 📫 You can reach me by sending email to bolin.wu1026@gmail.com.
